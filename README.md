@@ -28,19 +28,19 @@ https://mirzaismayeel.github.io/spiced-up-restaurant/
 
 ### 🏠 Home Page
 
-![Home Page](doc/images/home-page.png)
+![Home Page](Doc/Screeshorts/home-page.png.png)
 
 ### 🍽️ Menu Section
 
-![Menu Section](doc/images/menu-section.png)
+![Menu Section](Doc/Screeshorts/menu-section.png.png)
 
 ### 🛒 Shopping Cart
 
-![Shopping Cart](doc/images/shopping-cart.png)
+![Shopping Cart](Doc/Screeshorts/shopping-cart.png.png)
 
 ### 📱 Mobile View
 
-![Mobile View](doc/images/mobile-view.png)
+![Mobile View](Doc/Screeshorts/mobile-view.png.png)
 
 ---
 
