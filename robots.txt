@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mirzaismayeel.github.io/spiced-up-restaurant/sitemap.xml
