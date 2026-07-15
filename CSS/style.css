@@ -791,11 +791,12 @@ body {
     color: rgba(255, 255, 255, 0.664);
 }
 
-.footer-content ul a {
+.footer-content li a {
     text-decoration: none;
+    color: white;
 }
 
-.footer-content ul a:hover {
+.footer-content ul li a:hover {
     text-decoration-color: rgba(255, 255, 255, 0.664);
 }
 
