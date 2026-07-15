@@ -858,7 +858,6 @@ body {
     align-content: center;
 }
 
-/* Copyright */
 .copyright {
     display: flex;
     justify-content: space-between;
@@ -870,7 +869,7 @@ body {
 
 .copyright p {
     font-size: 18px;
-    color: rgba(255, 255, 255, 0.26);
+    color: rgb(255 255 255 / 60%);
 }
 
 .footer-icons {
