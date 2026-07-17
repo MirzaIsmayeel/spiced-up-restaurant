@@ -179,7 +179,7 @@ body {
     top: 0%;
     align-items: center;
     padding: 10px;
-    box-shadow: -10px -4px 20px rgba(0, 0, 0, 0.342);
+    box-shadow: -10px -4px 20px rgba(0, 0, 0, 0.34);
     right: -550px;
     z-index: 3;
     width: 500px;
@@ -187,7 +187,7 @@ body {
     height: 100%;
     overflow-y: auto;
     scrollbar-width: none;
-    transition: 0.4s ease-in-out;
+    transition: 0.3s ease-in-out;
 }
 
 .mobile-btn:hover {
@@ -375,7 +375,7 @@ body {
     background-color: #AC0707;
     border: none;
     color: white;
-    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.170);
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.17);
 }
 
 .continu-arrow {
@@ -417,14 +417,14 @@ body {
     color: black;
     align-items: center;
     padding: 10px;
-    box-shadow: -10px -4px 20px rgba(0, 0, 0, 0.342);
+    box-shadow: -10px -4px 20px rgba(0, 0, 0, 0.34);
     right: -550px;
     z-index: 3;
     width: 500px;
     height: 100%;
     overflow-y: auto;
     scrollbar-width: none;
-    transition: 0.5s ease-in-out;
+    transition: 0.3s ease-in-out;
 }
 
 .customer-open {
