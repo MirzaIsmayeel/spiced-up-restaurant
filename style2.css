@@ -1,6 +1,34 @@
 
 @font-face {
     font-family: "Inter";
+    src: url("../fonts/Poppins-Medium.woff2") format("woff2");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Inter";
+    src: url("../fonts/Poppins-Bold.woff2") format("woff2");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Inter";
+    src: url("../fonts/Poppins-Regular.woff2") format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Inter";
+    src: url("../fonts/Poppins-SemiBold.woff2") format("woff2");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: "Inter";
     src: url("../fonts/Inter_18pt-Medium.woff2") format("woff2");
     font-weight: 500;
     font-style: normal;
@@ -215,7 +243,7 @@ body {
 .sidebar h2 {
     text-align: center;
     font-size: 55px;
-    font-family: Inter, sans-serif;
+    font-family: Poppins , sans-serif;
     margin-bottom: 32px;
     border-bottom: 1px solid;
 }
@@ -260,13 +288,13 @@ body {
 }
 
 .product-details h3 {
-     font-family: Inter, sans-serif;
+     font-family: Poppins, sans-serif;
     font-size: 25px;
     line-height: 30px;
 }
 
 .product-details h4 {
-     font-family: Inter, sans-serif;
+     font-family: Poppins, sans-serif;
     font-size: 23px;
     font-weight: 600;
 }
@@ -443,7 +471,6 @@ body {
     font-size: 21px;
 }
 .total {
-    margin-top: -8px;
     display: flex;
     align-content: center;
     font-family: Poppins, sans-serif;
