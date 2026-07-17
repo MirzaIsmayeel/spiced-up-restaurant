@@ -307,8 +307,8 @@ function massage() {
     cart.forEach((items, index) => {
         massage +=
             `${index + 1}.${items.title}
-    Quantity:${items.quantity}
-    Prize:${items.prize}\n\n`
+    Quantity: ${items.quantity}
+    Prize: ${items.prize}\n\n`
     })
     massage += "------------------------------\nDilivery Details\n------------------------------\n"
     if (delivery() === 'Pick up' && customerdata.massage === '') {
