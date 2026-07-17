@@ -34,7 +34,6 @@ let open = (key)=>{
 // click on close icon to close sidebar
 close.addEventListener("click",open)
 document.addEventListener("keydown",function close(event) {
-   console.log(event)
   if(event.key === "Escape"){
    open()
   }
