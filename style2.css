@@ -27,7 +27,7 @@
     font-style: normal;
     font-display: swap;
 }
-@font-face {
+/* @font-face {
     font-family: "Poppins";
     src: url("../fonts/Poppins-Medium.woff2") format("woff2");
     font-weight: 500;
@@ -51,7 +51,7 @@
     font-weight: 600;
     font-style: normal;
     font-display: swap;
-}
+} */
 
 * {
     padding: 0;
@@ -83,7 +83,7 @@ html{
 body {
     min-height: 100vh;
     font-family: Inter, sans-serif;
-    font-family: Poppins, sans-serif;
+
     overflow-x: hidden;
     background-color: #111213;
     color: #ffffff;
@@ -145,7 +145,7 @@ body {
 
 .menu-header h2 {
     font-size: 3.052rem;
-    font-family: Poppins, sans-serif;
+    font-family: Inter, sans-serif;
 }
 
 .menu-btn {
@@ -243,7 +243,7 @@ body {
 .sidebar h2 {
     text-align: center;
     font-size: 55px;
-    font-family: Poppins, sans-serif;
+    font-family: Inter, sans-serif;
     margin-bottom: 32px;
     border-bottom: 1px solid;
 }
@@ -288,13 +288,13 @@ body {
 }
 
 .product-details h3 {
-    font-family: Poppins, sans-serif;
+    font-family: Inter, sans-serif;
     font-size: 25px;
     line-height: 30px;
 }
 
 .product-details h4 {
-    font-family: Poppins, sans-serif;
+    font-family: Inter, sans-serif;
     font-size: 23px;
     font-weight: 600;
 }
@@ -339,7 +339,7 @@ body {
     display: flex;
     gap: 8px;
     margin-bottom: 8px;
-    font-family: Poppins, sans-serif;
+    font-family: Inter, sans-serif;
     font-size: 26px;
 }
 
@@ -347,7 +347,7 @@ body {
     margin-top: 16px;
     display: flex;
     align-content: center;
-    font-family: Poppins, sans-serif;
+    font-family: Inter, sans-serif;
     font-size: 35px;
     letter-spacing: -1px;
     gap: 8px;
@@ -355,8 +355,7 @@ body {
 }
 
 #totalprize {
-    /* margin-bottom: 8px; */
-    font-family: Poppins, sans-serif;
+    font-family: Inter, sans-serif;
     font-size: 33px;
 }
 
@@ -397,7 +396,7 @@ body {
     align-items: center;
     justify-content: center;
     gap: 0.5rem;
-    font-family: Poppins, sans-serif;
+   font-family: Inter, sans-serif;
     font-size: 25px;
     font-weight: 500;
     border-radius: 8px;
@@ -429,7 +428,7 @@ body {
 .customer-sidebar h2 {
     text-align: center;
     font-size: 50px;
-    font-family: Poppins, sans-serif;
+   font-family: Inter, sans-serif;
     margin-bottom: 32px;
     border-bottom: 1px solid;
 }
@@ -475,7 +474,7 @@ body {
     margin-top: -8px;
     display: flex;
     align-content: center;
-    font-family: Poppins, sans-serif;
+    font-family: Inter, sans-serif;
     font-size: 33px;
     letter-spacing: -1px;
     gap: 8px;
@@ -658,7 +657,7 @@ body {
 }
 
 .main-header {
-    font-family: Poppins, sans-serif;
+    font-family: Inter, sans-serif;
     font-size: 40px;
     font-weight: 700;
     line-height: 50px;
@@ -734,7 +733,7 @@ body {
     height: 80px;
     display: flex;
     flex-grow: 1;
-    font-family: Poppins, sans-serif;
+    font-family: Inter, sans-serif;
     font-size: 15px;
 }
 
@@ -745,7 +744,7 @@ body {
 }
 
 .card-btn {
-    font-family: Poppins, sans-serif;
+    font-family: Inter, sans-serif;
     font-size: 16.5px;
     padding: 0.75rem 1.5rem;
     margin: 0 10px 22px;
@@ -788,7 +787,7 @@ body {
 }
 
 .cap-title {
-    font-family: Poppins, sans-serif;
+    font-family: Inter, sans-serif;
     font-size: 16px;
 }
 
@@ -864,7 +863,7 @@ body {
 
 .contact-us h2 {
     margin-bottom: 1rem;
-    font-family: poppins;
+    font-family: Inter, sans-serif;
     color: white;
     font-size: 3.052rem;
 }
