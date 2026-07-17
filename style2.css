@@ -722,7 +722,7 @@ body {
 }
 
 .card-contant h2 {
-    font-family: Poppins, sans-serif;
+    font-family: Inter, sans-serif;
     font-size: 24px;
     height: 55px;
     line-height: 30px;
@@ -739,7 +739,7 @@ body {
 }
 
 .card-contant h3 {
-    font-family: Poppins, sans-serif;
+    font-family: Inter, sans-serif;
     font-size: 25px;
     font-weight: 600;
 }
