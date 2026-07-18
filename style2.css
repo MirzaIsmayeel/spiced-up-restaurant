@@ -208,14 +208,15 @@ body {
     align-items: center;
     padding: 10px;
     box-shadow: -10px -4px 20px rgba(0, 0, 0, 0.34);
-    right: -550px;
+    right: 0px;
+    transform: translateX(100%);
     z-index: 3;
     width: 500px;
     color: rgb(0, 0, 0);
     height: 100%;
     overflow-y: auto;
     scrollbar-width: none;
-    transition: 0.3s ease-in-out;
+    transition: transform 0.3s ease-in-out;
 }
 
 .mobile-btn:hover {
@@ -224,7 +225,7 @@ body {
 }
 
 .sidebar-open {
-    right: 0px;
+    transform: translateX(0);
 }
 
 .sidebar-close {
@@ -356,6 +357,7 @@ body {
 
 #totalprize {
      font-family: Inter, sans-serif;
+     align-self: center;
     font-size: 33px;
 }
 
@@ -1165,6 +1167,7 @@ body {
 
     #totalprize {
         font-size: 28px;
+        margin: 0;
     }
 
     .total {
