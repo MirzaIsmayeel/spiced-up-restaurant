@@ -104,8 +104,8 @@ body {
 }
 
 .nav-logo {
-    height: 90px;
-    background-image:url(../assets/Gemini_Generated_Image_qginktqginktqgin-Photoroom.webp);
+    height: 350px;
+    background-image:url(../assets/full-logo.webp);
     object-fit: cover;
     background-position: center;
     background-repeat: no-repeat;
