@@ -138,19 +138,7 @@ spiced-up-restaurant/
 3. Open `index.html` in your browser.
 
 No installation or build tools are required.
-
----
-
-## 🔮 Future Improvements
-
-* 🔍 Food search functionality
-* ❤️ Favorite dishes
-* ⭐ Customer reviews
-* 🌙 Dark mode
-* 💳 Online payment integration
-* 🔐 Admin dashboard for menu management
-
----
+--
 
 ## 👨‍💻 Author
 
